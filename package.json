@@ -1,7 +1,7 @@
 {
   "name": "backend-dev-log",
   "version": "0.0.1",
-  "description": "My journey to become a sucessful backend dev (hopefully)",
+  "description": "My journey to become a successful backend dev (hopefully)",
   "main": "server.js",
   "type": "module",
   "scripts": {
