@@ -1,6 +1,6 @@
 console.log("server file is great!");
 import express from "express";
-import jokeRoutes from "./routes/jokeRoutes.js";
+import jokeRoutes from "./routes/jokeRoutes.ts";
 const app = express();
 const PORT = 3000;
 

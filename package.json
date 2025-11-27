@@ -2,12 +2,12 @@
   "name": "backend-dev-log",
   "version": "0.0.1",
   "description": "My journey to become a successful backend dev (hopefully)",
-  "main": "server.js",
+  "main": "server.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start": "node server.ts",
+    "dev": "nodemon server.ts",
     "seed": "node seed.ts"
   },
   "repository": {

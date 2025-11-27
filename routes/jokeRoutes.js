@@ -4,7 +4,7 @@ import {
   getJokeById,
   getRandomJoke,
   createJoke,
-} from "../controllers/jokeController.js";
+} from "../controllers/jokeController.ts";
 
 const router = express.Router();
 
